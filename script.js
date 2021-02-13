@@ -1,5 +1,4 @@
 var possible = ["1", "5", "9"];
-
 var bus = document.getElementById('bus');
 
 bus.style.gridColumnStart = "1";
